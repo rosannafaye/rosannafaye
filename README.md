@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosanna</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **my time at Le Wagon Bootcamp**
 
